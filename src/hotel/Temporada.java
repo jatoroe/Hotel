@@ -16,7 +16,8 @@ public class Temporada {
     private Fecha f;
     private Persona Responsable;
 
-    public Temporada (){
-        
+    public Temporada (int a, int c){
+       
     }
+    
 }

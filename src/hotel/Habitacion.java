@@ -11,8 +11,7 @@ package hotel;
  */
 public class Habitacion {
     private int Codigo;
-    private int CantMaxima;
-    
+    private int CantMaxima; 
     private int Price;
     
     

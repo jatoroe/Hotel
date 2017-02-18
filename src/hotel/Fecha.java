@@ -20,8 +20,8 @@ public class Fecha {
         this.year = y;
     }
      
-    public int getFecha(){
-        System.out.println();
-        return 0;
-    }
+   public String getFecha(){
+       return dia + " / " + mes + " / " + year;
+       
+   }
 }

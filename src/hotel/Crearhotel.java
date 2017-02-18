@@ -5,16 +5,18 @@
  */
 package hotel;
 
+
+
 /**
  *
- * @author Estudiante
+ * @author JAVIER
  */
-public class Hotel {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+public class Crearhotel {
+    private Piso[] p;
+    private int i;
     
-}
+    public Crearhotel(){
+             
+    }
+
 }
